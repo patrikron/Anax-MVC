@@ -1,0 +1,2 @@
+------------------------------------
+Patrik Ronström studerar kursen Databasdrivna webbapplikationer med PHP och MVC. Har tidigare studerat programmet Avancerad Webbprogrammering på Uppsala Universitet. 
